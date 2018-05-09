@@ -1,0 +1,482 @@
+[
+  {
+    "category": "books",
+    "entries": [
+      {
+        "url": "https://librivox.org/",
+        "name": "LibriVox",
+        "description": "Public domain audiobooks read by volunteers."
+      },
+      {
+        "url": "http://www.gutenberg.org/",
+        "name": "Project Gutenberg",
+        "description": "Public domain ebooks"
+      },
+      {
+        "url": "https://standardebooks.org/",
+        "name": "Standard Ebooks",
+        "description": "Public domain ebooks"
+      },
+      {
+        "url": "http://www.freekindlebooks.org/MagicCatalog/magiccatalog.html",
+        "name": "The Magic Catalog",
+        "description": "Ebook catalog linking to all of Project Gutenberg’s titles"
+      },
+      {
+        "url": "https://www.overdrive.com/",
+        "name": "OverDrive/Libby",
+        "description": "Ebooks, audiobooks, and other materials available through your public library."
+      },
+      {
+        "url": "https://www.hoopladigital.com/",
+        "name": "Hoopla",
+        "description": "Ebooks, audiobooks, and other materials available through your public library."
+      },
+      {
+        "url": "https://books.noisetrade.com/",
+        "name": "NoiseTrade Books",
+        "description": "Self-published ebooks and audiobooks"
+      }
+    ]
+  },
+  {
+    "category": "data",
+    "entries": [
+      {
+        "url": "https://www.quandl.com/",
+        "name": "Quandl",
+        "description": "Free and paid financial data"
+      },
+      {
+        "url": "https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t",
+        "name": "American FactFinder",
+        "description": "Searchable data from the U.S. census"
+      },
+      {
+        "url": "https://www.last10k.com/",
+        "name": "Last10K.com",
+        "description": "SEC filings, including annual and quarterly reports"
+      },
+      {
+        "url": "https://www.bea.gov/",
+        "name": "BEA",
+        "description": "Economic data from the U.S. Bureau of Economic Analysis"
+      },
+      {
+        "url": "https://data.nasa.gov/browse",
+        "name": "NASA’s Open Data Portal",
+        "description": "Every public NASA dataset"
+      },
+      {
+        "url": "https://data.oecd.org/",
+        "name": "OECD Data",
+        "description": "International economic data from the Organization for Economic Cooperation and Development"
+      },
+      {
+        "url": "http://sexualitics.github.io/",
+        "name": "Sexualitics",
+        "description": "Performance data from a large portion of uploads to porn sites xHamster and Xnxx"
+      },
+      {
+        "url": "https://www.projecteuclid.org/",
+        "name": "Project EUCLID",
+        "description": "Mathematics papers"
+      },
+      {
+        "url": "https://arxiv.org/",
+        "name": "arXiv.org",
+        "description": "Academic papers in the sciences"
+      },
+      {
+        "url": "https://www.vertex42.com/",
+        "name": "Vertex42",
+        "description": "Spreadsheet templates for Excel and Google Sheets"
+      }
+    ]
+  },
+  {
+    "category": "video games",
+    "entries": [
+      {
+        "url": "https://gamejolt.com/",
+        "name": "Game Jolt",
+        "description": "Free and cheap indie games"
+      },
+      {
+        "url": "https://itch.io/games/free",
+        "name": "itch.io",
+        "description": "Free and cheap indie games"
+      },
+      {
+        "url": "https://vimm.net/",
+        "name": "Vimm’s Lair",
+        "description": "Classic console games"
+      },
+      {
+        "url": "https://www.myabandonware.com/",
+        "name": "My Abandonware",
+        "description": "Old video games “abandoned” by the developer"
+      },
+      {
+        "url": "https://archive.org/details/internetarcade",
+        "name": "Internet Arcade",
+        "description": "Web-playable versions of classic video games on the Internet Archive"
+      },
+      {
+        "url": "https://archive.org/details/consolelivingroom",
+        "name": "Console Living Room",
+        "description": "Web-playable versions of classic video games on the Internet Archive"
+      },
+      {
+        "url": "http://game-owl.com/",
+        "name": "Game-Owl",
+        "description": "Downloadable video games (caution: one redditor warns of possible malware)"
+      }
+    ]
+  },
+  {
+    "category": "design and art",
+    "entries": [
+      {
+        "url": "https://resourcecards.com/",
+        "name": "Resource Cards",
+        "description": "Catalog of free resources including stock photos, icons, and tools for Photoshop, Boostrap, WordPress, web development, and SEO"
+      },
+      {
+        "url": "https://unsplash.com/",
+        "name": "Unsplash",
+        "description": "Free stock photos."
+      },
+      {
+        "url": "https://pixabay.com/",
+        "name": "Pixabay",
+        "description": "Free stock photos."
+      },
+      {
+        "url": "https://www.pexels.com/",
+        "name": "Pexels",
+        "description": "Free stock photos."
+      },
+      {
+        "url": "https://www.freeimages.com/",
+        "name": "FreeImages",
+        "description": "Free stock photos."
+      },
+      {
+        "url": "https://www.stockio.com/",
+        "name": "Stockio",
+        "description": "Free stock photos."
+      },
+      {
+        "url": "https://librestock.com/",
+        "name": "Librestock",
+        "description": "Metasearch that combines several of the above image libraries"
+      },
+      {
+        "url": "https://github.com/heyalexej/awesome-images",
+        "name": "Awesome Images",
+        "description": "A list of over 30 more image libraries"
+      },
+      {
+        "url": "https://www.toptal.com/designers/subtlepatterns/",
+        "name": "Subtle Patterns",
+        "description": "Background pattern images"
+      },
+      {
+        "url": "https://placeholder.com/",
+        "name": "Placeholder.com",
+        "description": "Simple placeholder images marked with their width and height, at any measurement"
+      },
+      {
+        "url": "https://www.flaticon.com/",
+        "name": "Flaticon",
+        "description": "Free and paid icon sets"
+      },
+      {
+        "url": "https://www.iconfinder.com/",
+        "name": "Iconfinder",
+        "description": "Free and paid icon sets"
+      },
+      {
+        "url": "https://thenounproject.com/",
+        "name": "Noun Project",
+        "description": "Free and paid icon sets"
+      },
+      {
+        "url": "https://fontawesome.com/",
+        "name": "Font Awesome",
+        "description": "Free and paid icon sets"
+      },
+      {
+        "url": "https://www.dafont.com/",
+        "name": "DaFont",
+        "description": "Downloadable and embeddable fonts"
+      },
+      {
+        "url": "https://www.fontsquirrel.com/",
+        "name": "Font Squirrel",
+        "description": "Downloadable and embeddable fonts"
+      },
+      {
+        "url": "https://fonts.google.com/",
+        "name": "Google Fonts",
+        "description": "Downloadable and embeddable fonts"
+      },
+      {
+        "url": "http://www.losttype.com/",
+        "name": "Lost Type Co-op",
+        "description": "Small collection of pay-what-you-want fonts"
+      },
+      {
+        "url": "https://creativemarket.com/",
+        "name": "Creative Market",
+        "description": "Cheap and free design elements"
+      },
+      {
+        "url": "https://loading.io/",
+        "name": "Loading.io",
+        "description": "Customizable loading animations"
+      }
+    ]
+  },
+  {
+    "category": "development",
+    "entries": [
+      {
+        "url": "https://github.com/",
+        "name": "GitHub",
+        "description": "Open source code"
+      },
+      {
+        "url": "https://www.sourceforge.net/",
+        "name": "SourceForge",
+        "description": "Open source software"
+      },
+      {
+        "url": "https://www.blender.org/",
+        "name": "blender.org",
+        "description": "Open source 3d modeling, animation, compositing and motion tracking"
+      },
+      {
+        "url": "https://qgis.org/en/site/",
+        "name": "QGIS",
+        "description": "Open source mapping system"
+      },
+      {
+        "url": "https://www.rstudio.com/",
+        "name": "RStudio",
+        "description": "Applications for the open source statistical coding R"
+      },
+      {
+        "url": "https://opengameart.org/",
+        "name": "OpenGameArt.org",
+        "description": "Video game art assets of varying styles"
+      },
+      {
+        "url": "http://www.freesound.org/",
+        "name": "Freesound",
+        "description": "Rights-free sound effects"
+      },
+      {
+        "url": "http://bbcsfx.acropolis.org.uk/",
+        "name": "BBC Sound Effects",
+        "description": "Free for personal and educational use"
+      }
+    ]
+  },
+  {
+    "category": "music",
+    "entries": [
+      {
+        "url": "http://www.datpiff.com/",
+        "name": "DatPiff",
+        "description": "Hip-hop mixtapes"
+      },
+      {
+        "url": "http://gh.ffshrine.org/",
+        "name": "Galbadia Hotel",
+        "description": "Video game music"
+      },
+      {
+        "url": "https://ocremix.org/",
+        "name": "OverClock ReMix",
+        "description": "Originals and covers of video game music, much of it legal for reuse"
+      },
+      {
+        "url": "https://noisetrade.com/",
+        "name": "NoiseTrade Music",
+        "description": "Indie albums"
+      },
+      {
+        "url": "http://www.cambridge-mt.com/ms-mtk.htm",
+        "name": "Mixing Secrets for the Small Studio",
+        "description": "Guide to mixing music, and sample tracks to use"
+      },
+      {
+        "url": "https://cymatics.fm/free-download-vault/",
+        "name": "Cymatics",
+        "description": "Royalty free sounds and presets for music production"
+      },
+      {
+        "url": "http://cylinders.library.ucsb.edu/",
+        "name": "UCSB Cylinder Audio Archive",
+        "description": "Public domain music, speeches, and other audio recorded from wax cylinders"
+      },
+      {
+        "url": "http://imslp.org/",
+        "name": "IMSLP/Petrucci Music Library",
+        "description": "Public domain sheet music"
+      }
+    ]
+  },
+  {
+    "category": "apps",
+    "entries": [
+      {
+        "url": "https://ninite.com/",
+        "name": "Ninite",
+        "description": "Select from a list of free essential apps (like Skype, Evernote, GIMP, Malwarebytes, and Chrome) to install and update at the same time"
+      },
+      {
+        "url": "https://winworldpc.com/home",
+        "name": "WinWorld",
+        "description": "Classic PC software"
+      },
+      {
+        "url": "http://www.ubuntu.com/",
+        "name": "Ubuntu",
+        "description": "Open-source operating system"
+      },
+      {
+        "url": "http://kicad-pcb.org/",
+        "name": "KiCad EDA",
+        "description": "Open source electronics design app"
+      },
+      {
+        "url": "http://www.pouet.net/",
+        "name": "Pouët.net",
+        "description": "“Demoscene” computer art and coding demos"
+      },
+      {
+        "url": "https://docs.microsoft.com/en-us/sysinternals/",
+        "name": "Windows Sysinternals",
+        "description": "PC utilities and diagnostic tools"
+      },
+      {
+        "url": "https://www.libreoffice.org/",
+        "name": "LibreOffice",
+        "description": "Open source alternative to MS Word"
+      },
+      {
+        "url": "https://www.openoffice.org/",
+        "name": "OpenOffice",
+        "description": "Open source alternative to MS Word"
+      },
+      {
+        "url": "https://krita.org/en/",
+        "name": "Krita",
+        "description": "Open source painting app"
+      },
+      {
+        "url": "https://musescore.org/en",
+        "name": "MuseScore",
+        "description": "Open source music notation app"
+      },
+      {
+        "url": "https://www.openshot.org/",
+        "name": "OpenShot",
+        "description": "Open source video editor"
+      },
+      {
+        "url": "https://www.audacityteam.org/",
+        "name": "Audacity",
+        "description": "Open source audio editor"
+      }
+    ]
+  },
+  {
+    "category": "etc",
+    "entries": [
+      {
+        "url": "http://xowa.org/",
+        "name": "XOWA",
+        "description": "Download all of Wikipedia"
+      },
+      {
+        "url": "https://archive.org/",
+        "name": "Archive.org",
+        "description": "A motherlode of collections of music, videos, images, games, and written materials from non-profits, schools, government organizations, and the public domain. See top collections on the front page. Also home to the Wayback Machine."
+      },
+      {
+        "url": "https://digitalcollections.nypl.org/",
+        "name": "NYPL Digital Collections",
+        "description": "Digitized ephemera from the New York Public Library"
+      },
+      {
+        "url": "https://www.loc.gov/collections/",
+        "name": "Library of Congress Digital Collections",
+        "description": "Digitized ephemera from the Library of Congress"
+      },
+      {
+        "url": "https://libraryofbabel.info/",
+        "name": "Library of Babel",
+        "description": "Technically contains every book up to a certain length—because it contains every combination of characters, almost all of them gibberish, only generated the moment you load the page"
+      },
+      {
+        "url": "http://textfiles.com/directory.html",
+        "name": "Textfiles",
+        "description": "Collection of old online text files, under categories like Conspiracy, Ham Radio, and Science Fiction."
+      },
+      {
+        "url": "http://library.nyam.org/colorourcollections/",
+        "name": "#ColorOurCollections",
+        "description": "Black and white drawings from museums and libraries, suggested as printable coloring books"
+      },
+      {
+        "url": "https://www.spacetelescope.org/images/",
+        "name": "Hubble Space Telescope",
+        "description": "Images of space from NASA’s orbiting telescope"
+      },
+      {
+        "url": "http://www.open.edu/openlearn/free-courses/full-catalogue",
+        "name": "OpenLearn",
+        "description": "Free online academic courses"
+      },
+      {
+        "url": "http://www.noexcuselist.com/",
+        "name": "No Excuse List",
+        "description": "Catalog of free online courses, how-to guides, and and educational sites"
+      },
+      {
+        "url": "https://www.commonlit.org/",
+        "name": "CommonLit",
+        "description": "Reading passages, lessons, and other literary education tools for teachers"
+      },
+      {
+        "url": "https://www.cheatography.com/",
+        "name": "Cheatography",
+        "description": "Cheat sheets, mostly for software"
+      },
+      {
+        "url": "https://www.lego.com/en-us/service/buildinginstructions",
+        "name": "Lego Building Instructions",
+        "description": "Building instructions for every Lego set"
+      },
+      {
+        "url": "http://www.ana-white.com/plancatalog",
+        "name": "Ana White",
+        "description": "Woodworking plans"
+      },
+      {
+        "url": "http://www.cubeecraft.com/",
+        "name": "Cubeecraft",
+        "description": "Patterns for paper-folding models"
+      },
+      {
+        "url": "https://www.thingiverse.com/",
+        "name": "Thingiverse",
+        "description": "3D models that you can print on your own 3D printer (or a rental or library model)"
+      }
+    ]
+  }
+]
